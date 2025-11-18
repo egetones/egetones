@@ -1,15 +1,15 @@
 ### // echo "Hello World!" 👋
 
-> "Veri, yeni petroldür; ancak rafine edilmezse kullanılamaz."
+> "Data is the new oil. It's valuable, but if unrefined it cannot really be used."
 
-🕵️‍♂️ **Ben Kimim?**
-Siber güvenlik, açık kaynak istihbaratı (OSINT) ve operasyonel güvenlik (OpSec) konularına odaklanan bir teknoloji tutkunuyum. Dijital ayak izimi yönetirken, Linux ekosisteminde (özellikle Fedora) derinleşiyorum.
+🕵️‍♂️ **Who am I?**
+Just a tech enthusiast diving deep into the world of **Cybersecurity**, **OSINT**, and **OpSec**. I like keeping my digital footprint small and my systems secure. Currently exploring the depths of the Linux ecosystem with Fedora.
 
-🎯 **Odak Noktalarım**
-* 🐧 **Linux:** Günlük sürücüm **Fedora Workstation**. Sistem sıkılaştırma (hardening) ve terminal yetkinliği üzerine çalışıyorum.
-* 👁️ **OSINT:** Açık kaynaklardan veri toplama ve analiz etme teknikleri.
-* 🛡️ **OpSec:** Dijital gizlilik, anonimlik ve güvenlik prosedürleri.
-* 💻 **Programlama:** Güvenlik odaklı araçlar geliştirmek ve süreçleri otomatize etmek için kod yazıyorum.
+🎯 **What I'm up to**
+* 🐧 **Linux:** Daily driving **Fedora Workstation**. Focused on system hardening and living in the terminal.
+* 👁️ **OSINT:** Digging into open-source intelligence and data analysis techniques.
+* 🛡️ **OpSec:** Prioritizing privacy, anonymity, and security best practices.
+* 💻 **Coding:** Building security tools and scripting to automate the boring stuff.
 
 🧰 **Tech Stack & OS**
 
