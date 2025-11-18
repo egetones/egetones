@@ -21,10 +21,4 @@ Siber güvenlik, açık kaynak istihbaratı (OSINT) ve operasyonel güvenlik (Op
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-📊 **GitHub Aktivitem**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="github stats" />
-</p>
-
 ---
