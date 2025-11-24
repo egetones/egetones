@@ -15,10 +15,6 @@ Just a tech enthusiast diving deep into the world of **Cybersecurity**, **OSINT*
     * **Tool Development:** Building PoCs for **Binary Exploitation** (StackSmash) and **Defense Evasion** (Rootkit) to better understand offensive architecture.
 * **Scripting:** Automating the routine with Bash and shell scripting.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egetones&layout=compact&hide=html,css,typescript,javascript&theme=dark&langs_count=6" alt="egetones languages" />
-</p>
-
 **Tech Stack & OS**
 
 <p align="left">
