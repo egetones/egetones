@@ -18,4 +18,3 @@ lowest level.
 ## > uname -a
 
 Kırıkkale University — Information Security Technology
-CTF: Siber Vatan · Hackviser
