@@ -1,29 +1,21 @@
-### // echo "Hello World!"
+## > whoami
 
-> "Data is the new oil. It's valuable, but if unrefined it cannot really be used."
+Offensive security student focused on Red Team tooling, malware development, 
+and Linux kernel internals. I build things to understand how they work at the 
+lowest level.
 
-**Who am I?**
-Just a tech enthusiast diving deep into the world of **Cybersecurity**, **OSINT**, and **OpSec**. I like keeping my digital footprint small and my systems secure. Currently exploring the depths of the Linux ecosystem with Fedora.
+## > ls -la projects/
 
-**What I'm up to**
-* **Linux System Mastery:** Daily driving **Fedora Workstation**. Focused on system hardening and living in the terminal.
-* **OSINT & Forensics:** Digging into open-source intelligence, data analysis, and **file integrity** techniques.
-* **OpSec & Defense:** Prioritizing privacy, anonymity, and security best practices, and building **defensive tools**.
+| Project | Category | Stack |
+|---|---|---|
+| Titan-Rootkit | Ring-0 LKM, DKOM | C |
+| Needle | Process Injection, ptrace | C++ |
+| vortex-c2 | C2 Framework, AES-256 | Python |
+| EchoVoid | ICMP Covert Channel | C |
+| chaoscrypt | Ransomware Simulation | Python |
+| stacksmash | Buffer Overflow / EIP Control | C, Python |
 
-* **System & Low-Level Programming (The "Why"):**
-    * **C/C++:** Gaining hands-on experience with **Raw Sockets**, **Kernel Input Subsystem**, and **Memory Management** for advanced system analysis. (ShadowSniff, SilentKey, Phantom)
-    * **Tool Development:** Building PoCs for **Binary Exploitation** (StackSmash) and **Defense Evasion** (Rootkit) to better understand offensive architecture.
-* **Scripting:** Automating the routine with Bash and shell scripting.
+## > uname -a
 
-**Tech Stack & OS**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-Çrş 15 Nis 2026 22:15:29 +03
+Kırıkkale University — Information Security Technology
+CTF: Siber Vatan · Hackviser
